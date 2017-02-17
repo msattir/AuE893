@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/mayukh/catkin_ws_msattir/devel -DCMAKE_INSTALL_PREFIX=/home/mayukh/catkin_ws_msattir/install -G Unix Makefiles
